@@ -1,5 +1,7 @@
 # Angular2AdminDashboard
 
+[DEMO](https://shekharullah06.github.io/angular-2-admin-dashboard/)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.21.
 
 ## Development server
